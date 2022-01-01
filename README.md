@@ -6,7 +6,7 @@
 
 <h2>Bprute</h2>
 
-<img src="https://github.com/penucuriCode/bprute/blob/main/result.PNG" data-canonical-src="https://github.com/penucuriCode/bprute/blob/main/result.PNG" style="max-width:100%;">
+<img src="https://github.com/pencuricode/bprute/blob/main/result.PNG" data-canonical-src="https://github.com/pencuricode/bprute/blob/main/result.PNG" style="max-width:100%;">
 
 <h2>Simple brute force script </h2>
 
