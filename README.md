@@ -3,6 +3,10 @@
 <a href="https://github.com/penecuriCode/bprute"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/penecuriCode/bprute"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p> Brute Force Tool 🔓 WordPress , Joomla , DruPal , OpenCart , Magento </p>
+<p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
 
 <h2>Bprute</h2>
 
